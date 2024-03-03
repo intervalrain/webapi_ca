@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mysln.Domain", "Mysln.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mysln.Application", "Mysln.Application\Mysln.Application.csproj", "{4DCEA07B-0ADC-4AA4-AD0B-42A9E09C2088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mysln.Client", "Mysln.Client\Mysln.Client.csproj", "{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4DCEA07B-0ADC-4AA4-AD0B-42A9E09C2088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DCEA07B-0ADC-4AA4-AD0B-42A9E09C2088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DCEA07B-0ADC-4AA4-AD0B-42A9E09C2088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

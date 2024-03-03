@@ -1,3 +1,4 @@
+using Mysln.Api.Middleware;
 using Mysln.Application;
 using Mysln.Infrastructure;
 
@@ -14,6 +15,7 @@ var app = builder.Build();
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseMiddleware<ErrorHandlingMiddleware>();
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mysln.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+320a754d63e2e38c63568d31cb96dfb58f474a13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b0e1a753e43f427e8f6ff35d89ae081a283c01d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mysln.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mysln.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

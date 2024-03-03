@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@using Microsoft.AspNetCore.Mvc.RazorPages;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>歡迎您，@User.Identity.Name！</p>
+    <!-- 顯示其他已登入的內容 -->
+}
+else
+{
+    <p>請先登入以繼續操作。</p>
+    <!-- 顯示登入按鈕或其他處理方式 -->
+}

@@ -1,0 +1,22 @@
+﻿@page "/login"
+@model Mysln.Client.Pages.LoginModel
+@{
+}
+
+<h3>Login Form</h3>
+<form method="post" asp-page="LoginPage">
+    <table>
+        <tr>
+            <td>Email</td>
+            <td><input type="text" asp-for="Email" /></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" asp-for="Password" /></td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td><input type="submit" value="Login" /></td>
+        </tr>
+    </table>
+</form>

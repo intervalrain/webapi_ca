@@ -1,4 +1,13 @@
-﻿<Properties StartupConfiguration="{4683A9B3-BE59-469B-B054-7C8B90F41598}|https">
+﻿<Properties StartupConfiguration="{5EE3A73F-30AB-4014-A0E9-C463F98BF3A4}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" relfile="Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" line="20" column="1" />
+    <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Application/Services/Authentication/AuthenticationService.cs" relfile="Mysln.Application/Services/Authentication/AuthenticationService.cs" line="20" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Mysln.Api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mysln.Client PreferredExecutionTarget="/Applications/Microsoft Edge.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Mysln.Contracts/Authentication/AuthenticationResponse.cs">
     <Files>
       <File FileName="Mysln.Api/appsettings.json" Line="1" Column="1" />
@@ -44,14 +53,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Mysln.Api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" relfile="Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" line="20" column="1" />
-      <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Application/Services/Authentication/AuthenticationService.cs" relfile="Mysln.Application/Services/Authentication/AuthenticationService.cs" line="20" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
