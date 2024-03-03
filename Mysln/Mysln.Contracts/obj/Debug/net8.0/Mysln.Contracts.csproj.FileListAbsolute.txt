@@ -1,0 +1,12 @@
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/bin/Debug/net8.0/Mysln.Contracts.deps.json
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/bin/Debug/net8.0/Mysln.Contracts.dll
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/bin/Debug/net8.0/Mysln.Contracts.pdb
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.AssemblyInfoInputs.cache
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.AssemblyInfo.cs
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.csproj.CoreCompileInputs.cache
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.sourcelink.json
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.dll
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/refint/Mysln.Contracts.dll
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/Mysln.Contracts.pdb
+/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Contracts/obj/Debug/net8.0/ref/Mysln.Contracts.dll

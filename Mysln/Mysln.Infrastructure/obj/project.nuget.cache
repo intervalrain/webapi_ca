@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3iPex/UHUHVc4l85ioABxdsZfQPpSikHvBWU65Fe/b5yewBpWAsnc6R7xqho0afCq/m41uL9w+ESlFhLett7A==",
+  "success": true,
+  "projectFilePath": "/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Infrastructure/Mysln.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.identitymodel.abstractions/7.4.0/microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.3.1/microsoft.identitymodel.jsonwebtokens.7.3.1.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.identitymodel.logging/7.4.0/microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.identitymodel.protocols/7.4.0/microsoft.identitymodel.protocols.7.4.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/microsoft.identitymodel.tokens/7.4.0/microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "/Users/rainhu/.nuget/packages/system.identitymodel.tokens.jwt/7.3.1/system.identitymodel.tokens.jwt.7.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

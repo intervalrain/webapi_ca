@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{4683A9B3-BE59-469B-B054-7C8B90F41598}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mysln.Contracts/Authentication/AuthenticationResponse.cs">
+    <Files>
+      <File FileName="Mysln.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="Mysln.Application/Services/Authentication/AuthenticationService.cs" Line="37" Column="1" />
+      <File FileName="Mysln.Api/Controllers/AuthenticationController.cs" Line="24" Column="1" />
+      <File FileName="Mysln.Infrastructure/Persistence/UserRepository.cs" Line="13" Column="1" />
+      <File FileName="Mysln.Domain/Entities/User.cs" Line="9" Column="1" />
+      <File FileName="Mysln.Application/Persistence/IUserRepository.cs" />
+      <File FileName="Mysln.Infrastructure/DependencyInjection.cs" Line="12" Column="1" />
+      <File FileName="Mysln.Application/Services/Authentication/AuthenticationResult.cs" Line="1" Column="1" />
+      <File FileName="Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" Line="21" Column="1" />
+      <File FileName="Mysln.Contracts/Authentication/RegisterRequest.cs" Line="7" Column="1" />
+      <File FileName="Mysln.Contracts/Authentication/AuthenticationResponse.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mysln" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="Mysln.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Mysln.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Authentication" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Mysln.Contracts" expanded="True">
+              <Node name="Authentication" expanded="True">
+                <Node name="AuthenticationResponse.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Mysln.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Mysln.Infrastructure" expanded="True">
+              <Node name="Authentication" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mysln.Api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" relfile="Mysln.Infrastructure/Authentication/JwtTokenGenerator.cs" line="20" column="1" />
+      <Breakpoint file="/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Application/Services/Authentication/AuthenticationService.cs" relfile="Mysln.Application/Services/Authentication/AuthenticationService.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

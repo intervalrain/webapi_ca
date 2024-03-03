@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCEVJFoCsv5LBrUyvyQ90T+Q54LGgm1hroyWswFc6W2S30GT4Zn+HGJSimfx99weeQuWNFPOQvL+UWRaEVO3Sg==",
+  "success": true,
+  "projectFilePath": "/Users/rainhu/workspace/cleanarch/Mysln/Mysln.Application/Mysln.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/rainhu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
